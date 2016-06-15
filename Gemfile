@@ -1,0 +1,12 @@
+source "https://www.rubygems.org"
+
+gem "rest-client"
+gem "rspec"
+gem "selenium-webdriver"
+gem "cucumber"
+gem "rspec-expectations"
+gem "spec"
+gem "appium_lib"
+gem "sauce_whisk"
+gem "minitest"
+gem "test-unit"
